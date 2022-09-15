@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SFexWAfyeuVHEU9jbsov/xPq6lbWfYTTcH+NF85T07c=",
+  "Source": "lab-dotnet-api",
+  "BasePath": "_content/lab-dotnet-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
